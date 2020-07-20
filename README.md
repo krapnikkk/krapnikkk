@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me: [krapnik@qq.com](mailto:krapnik@qq.com) [QQ](tencent://message/?uin=708873725Menu=yes)
+- 📫 How to reach me: [krapnik@qq.com](mailto:krapnik@qq.com)
 
 
 **Languages and Tools:**  
