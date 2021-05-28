@@ -2,6 +2,8 @@ const fs = require("fs");
 
 const journey = {
   works: {
+    "three-minigame-adapter": "小游戏Adapter[ThreeJS版]",
+    "three-minigame-adapter-demo": "小游戏Adapter[ThreeJS版]演示案例demo工程",
     "TextImageGenerator": "利用css渲染自定义文字图片生成器",
     "FairyGUI-createjs":"一个基于createjs扩展实现fairygui的运行时",
     "FairyGUI-createjs-example":"createjs版fairygui的sdk案例展示",

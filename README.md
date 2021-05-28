@@ -1,32 +1,50 @@
-<h2><img src="https://media1.tenor.com/images/e21a3ac2d67fbf5d89d2e3e03249ec4a/tenor.gif" alt="yoshi" width="24" />欢迎来访我的Github<img src="https://media1.tenor.com/images/e21a3ac2d67fbf5d89d2e3e03249ec4a/tenor.gif" alt="yoshi" width="24" /></h2>
+<img src="https://ftp.bmp.ovh/imgs/2021/05/7fd73aab211edb30.gif" alt="yoshi" width="500" />
 
-我是`krapnik`，野生的WEB前端开发者[H5游戏方向]，现居广东深圳，就职于一家在线教育公司
+## ＼＼\(۶ ᐛ )۶//／／
+
+![profile views](https://komarev.com/ghpvc/?username=krapnikkk&color=brightgreen&style=flat-square&label=[+旅+人+]++No.+)欢迎查看**krapnik**的Github~~
+
+### TA的状态
+
+| 昵称     | krapnik                               |
+| :------: | ------------------------------------- |
+| 称号     | **野生的** WEB前端开发者 |
+| 迁徙记录 | ***广东阳江->广东广州->广东深圳*** |
+| 所属公会 | 某在线教育公司~~[濒危状态]~~          |
+| 职能 | **H5游戏方向**             |
+
+
+### 联系TA
 
 [![github](https://img.shields.io/badge/-krapnik-%23323031?style=flat&logo=github)](https://github.com/krapnikkk)
 ![wechat](https://img.shields.io/badge/-krapnik-%23323031?style=flat&logo=wechat)
+[![qq](https://img.shields.io/badge/-708873725-%23323031?style=flat&logo=tencent-qq&logoColor=294E80)](tencent://message/?uin=708873725Menu=yes)
 <a href="mailto:krapnik@qq.com"><img src="https://img.shields.io/badge/-krapnik@qq.com-%23323031?style=flat&logo=gmail" alt="foxmail" /></a>
-![profile views](https://komarev.com/ghpvc/?username=krapnikkk&color=blue)
 
-
-### 语言 & 框架
+### TA的技能树📚
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=ECD83E&color=ECD83E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-294E80?style=flat&logo=typescript&logoColor=ffffff&labelColor=294E80&color=294E80)
-![NodeJS](https://img.shields.io/badge/-Node.js-026e00?style=flat&logo=node.js&logoColor=ffffff&labelColor=026e00&color=026e00)
-![CSharp](https://img.shields.io/badge/-CSharp-026e00?style=flat&logo=c%20sharp&logoColor=ffffff&labelColor=0078D4&color=0078D4)
-![ThreeJS](https://img.shields.io/badge/-ThreeJS-20232A?style=flat&logo=Three.js&logoColor=ffffff)
-![Unity](https://img.shields.io/badge/-Unity-20232A?style=flat&logo=unity&logoColor=ffffff)
+![NodeJS](https://img.shields.io/badge/-Node.js-026e00?style=flat&logo=node-dot-js&logoColor=ffffff&labelColor=026e00&color=026e00)
+
+
+<!-- ![ThreeJS](https://img.shields.io/badge/-ThreeJS-20232A?style=flat&logo=Three-dot-js&logoColor=ffffff) -->
+<!-- ![CSharp](https://img.shields.io/badge/-CSharp-026e00?style=flat&logo=c%20sharp&logoColor=ffffff&labelColor=0078D4&color=0078D4) -->
+<!-- ![Unity](https://img.shields.io/badge/-Unity-20232A?style=flat&logo=unity&logoColor=ffffff) -->
 
 
 <img alt="stats" width="360" src="https://github-readme-stats.vercel.app/api?username=krapnikkk&show_icons=true&include_all_commits=true"/>
 
+### TA旅程💫
 <details>
 
-<summary style="font-size: 18px;display: flex;align-items: center;">💫 我的旅程</summary>
+<summary style="font-size: 18px;display: flex;align-items: center;">▼展开看看▼</summary>
 
 
 ### Works
 |📦  Projects|📃  Description|⭐  Stars|📚  Forks|
 |-----------|--------------|---------|--------|
+|[three-minigame-adapter](https://github.com/krapnikkk/three-minigame-adapter)|小游戏Adapter[ThreeJS版]|<img alt="Stars" src="https://img.shields.io/github/stars/krapnikkk/three-minigame-adapter?style=flat&labelColor=373f51&color=4FC08D" />|<img alt="Stars" src="https://img.shields.io/github/forks/krapnikkk/three-minigame-adapter?style=flat&labelColor=373f51&color=4FC08D" />|
+|[three-minigame-adapter-demo](https://github.com/krapnikkk/three-minigame-adapter-demo)|小游戏Adapter[ThreeJS版]演示案例demo工程|<img alt="Stars" src="https://img.shields.io/github/stars/krapnikkk/three-minigame-adapter-demo?style=flat&labelColor=373f51&color=4FC08D" />|<img alt="Stars" src="https://img.shields.io/github/forks/krapnikkk/three-minigame-adapter-demo?style=flat&labelColor=373f51&color=4FC08D" />|
 |[TextImageGenerator](https://github.com/krapnikkk/TextImageGenerator)|利用css渲染自定义文字图片生成器|<img alt="Stars" src="https://img.shields.io/github/stars/krapnikkk/TextImageGenerator?style=flat&labelColor=373f51&color=4FC08D" />|<img alt="Stars" src="https://img.shields.io/github/forks/krapnikkk/TextImageGenerator?style=flat&labelColor=373f51&color=4FC08D" />|
 |[FairyGUI-createjs](https://github.com/krapnikkk/FairyGUI-createjs)|一个基于createjs扩展实现fairygui的运行时|<img alt="Stars" src="https://img.shields.io/github/stars/krapnikkk/FairyGUI-createjs?style=flat&labelColor=373f51&color=4FC08D" />|<img alt="Stars" src="https://img.shields.io/github/forks/krapnikkk/FairyGUI-createjs?style=flat&labelColor=373f51&color=4FC08D" />|
 |[FairyGUI-createjs-example](https://github.com/krapnikkk/FairyGUI-createjs-example)|createjs版fairygui的sdk案例展示|<img alt="Stars" src="https://img.shields.io/github/stars/krapnikkk/FairyGUI-createjs-example?style=flat&labelColor=373f51&color=4FC08D" />|<img alt="Stars" src="https://img.shields.io/github/forks/krapnikkk/FairyGUI-createjs-example?style=flat&labelColor=373f51&color=4FC08D" />|
