@@ -1,4 +1,4 @@
-<img src="https://ftp.bmp.ovh/imgs/2021/05/7fd73aab211edb30.gif" alt="yoshi" width="500" />
+<img src="https://ftp.bmp.ovh/imgs/2021/05/7fd73aab211edb30.gif" alt="yoshi" width="400" />
 
 ## ＼＼\(۶ ᐛ )۶//／／
 
@@ -8,10 +8,10 @@
 
 | 昵称     | krapnik                               |
 | :------: | ------------------------------------- |
-| 称号     | **野生的** WEB前端开发者 |
+| 称号     | **野生的** 游戏开发者 |
 | 迁徙记录 | ***广东阳江->广东广州->广东深圳*** |
-| 所属公会 | 某在线教育公司<del>[濒危状态]</del>         |
-| 职能 | <u>H5游戏方向</u>             |
+| 所属公会 | 某电商方向互动营销游戏公司        |
+| 职能 | <u>游戏开发</u>             |
 
 
 ### 联系TA
@@ -37,7 +37,7 @@
 ### TA旅程💫
 <details>
 
-<summary style="font-size: 18px;display: flex;align-items: center;">▼展开看看▼</summary>
+<summary style="font-size: 18px;display: flex;align-items: center;">展开看看</summary>
 
 <!-- journey -->
 

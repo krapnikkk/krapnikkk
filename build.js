@@ -2,10 +2,10 @@ const fs = require("fs");
 
 const journey = {
   works: {
-    "three-minigame-adapter": "小游戏Adapter[ThreeJS版]",
-    "three-minigame-adapter-demo": "小游戏Adapter[ThreeJS版]演示案例demo工程",
+    "three-minigame-adapter": "多平台小游戏Adapter[ThreeJS版]",
+    "three-minigame-adapter-demo": "多平台小游戏Adapter[ThreeJS版]演示案例demo工程",
     "TextImageGenerator": "利用css渲染自定义文字图片生成器",
-    "FairyGUI-createjs":"一个基于createjs扩展实现fairygui的运行时",
+    "FairyGUI-createjs":"基于createjs渲染引擎实现fairygui运行时",
     "FairyGUI-createjs-example":"createjs版fairygui的sdk案例展示",
     "Super-Quick-Recognizer": "可视化手写字符识别数据管理工具",
   },
@@ -28,7 +28,8 @@ const journey = {
   },
   games: {
     "TheAviator": "threejs+fgui实现的飞行员小游戏",
-    "egret-game": "使用egret引擎进行开发的小游戏合集",
+    "egret-game": "使用egret引擎进行开发的游戏合集",
+    "laya-game": "使用layaair引擎进行开发的游戏合集",
     "FairyGUI-sudoku": "laya+fgui实现的数独小游戏",
   }
 };
