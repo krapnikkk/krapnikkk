@@ -18,6 +18,7 @@ const journey = {
     "JS-gameMathematics":"《HTML5游戏编程核心技术与实战》读书笔记",
   },
   tools: {
+    "baidutongji-generator": "生成百度统计插件通用协议本地文件工具",
     "fgui-restore": "对fairygui发布出来的资源文件进行逆向还原",
     "fgui-viewer": "fairgui发布资源在线浏览",
     "padlocal-http": "为Wechat机器人PadLocal扩展通过HTTP或WebSocket接收事件和调用API的能力",

@@ -1,27 +1,26 @@
-<img src="https://ftp.bmp.ovh/imgs/2021/05/7fd73aab211edb30.gif" alt="yoshi" width="400" />
-
+一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一
 ## ＼＼\(۶ ᐛ )۶//／／
 
-![profile views](https://komarev.com/ghpvc/?username=krapnikkk&color=brightgreen&style=flat-square&label=[+旅+人+]++No.+)欢迎查看**krapnik**的Github~~
+![profile views](https://komarev.com/ghpvc/?username=krapnikkk&color=brightgreen&style=flat-square&label=[visitor]++No.+)
 
-### TA的状态
 
-| 昵称     | krapnik                               |
+### Stats
+
+<!-- 
+| nickname     | krapnik                               |
 | :------: | ------------------------------------- |
-| 称号     | **野生的** 游戏开发者 |
-| 迁徙记录 | ***广东阳江->广东广州->广东深圳*** |
-| 所属公会 | 某电商方向互动营销游戏公司        |
-| 职能 | <u>游戏开发</u>             |
+| title     | Frontend Developer |
+| position | China Shenzhen | -->
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=krapnikkk&hide=["issues"]&show_icons=true)
 
-
-### 联系TA
+### Contacts
 
 [![github](https://img.shields.io/badge/-krapnik-%23323031?style=flat&logo=github)](https://github.com/krapnikkk)
 ![wechat](https://img.shields.io/badge/-krapnik-%23323031?style=flat&logo=wechat)
 [![qq](https://img.shields.io/badge/-708873725-%23323031?style=flat&logo=tencent-qq&logoColor=294E80)](tencent://message/?uin=708873725Menu=yes)
-<a href="mailto:krapnik@qq.com"><img src="https://img.shields.io/badge/-krapnik@qq.com-%23323031?style=flat&logo=gmail" alt="foxmail" /></a>
+<a href="mailto:krapnik@qq.com"><img src="https://img.shields.io/badge/-krapnik@qq.com-%23323031?style=flat&logo=gmail" alt="mail" /></a>
 
-### TA的技能树📚
+### Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=ECD83E&color=ECD83E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-294E80?style=flat&logo=typescript&logoColor=ffffff&labelColor=294E80&color=294E80)
 ![NodeJS](https://img.shields.io/badge/-Node.js-026e00?style=flat&logo=node-dot-js&logoColor=ffffff&labelColor=026e00&color=026e00)
@@ -31,13 +30,9 @@
 <!-- ![CSharp](https://img.shields.io/badge/-CSharp-026e00?style=flat&logo=c%20sharp&logoColor=ffffff&labelColor=0078D4&color=0078D4) -->
 <!-- ![Unity](https://img.shields.io/badge/-Unity-20232A?style=flat&logo=unity&logoColor=ffffff) -->
 
-
-<img alt="stats" width="360" src="https://github-readme-stats.vercel.app/api?username=krapnikkk&show_icons=true&include_all_commits=true"/>
-
-### TA旅程💫
 <details>
 
-<summary style="font-size: 18px;display: flex;align-items: center;">展开看看</summary>
+<summary style="font-size: 18px;display: flex;align-items: center;">More Repos</summary>
 
 
 ### Works
@@ -65,6 +60,7 @@
 ### Tools
 |📦  Projects|📃  Description|⭐  Stars|📚  Forks|
 |-----------|--------------|---------|--------|
+|[baidutongji-generator](https://github.com/krapnikkk/baidutongji-generator)|生成百度统计插件通用协议本地文件工具|<img alt="Stars" src="https://img.shields.io/github/stars/krapnikkk/baidutongji-generator?style=flat&labelColor=373f51&color=4FC08D" />|<img alt="Stars" src="https://img.shields.io/github/forks/krapnikkk/baidutongji-generator?style=flat&labelColor=373f51&color=4FC08D" />|
 |[fgui-restore](https://github.com/krapnikkk/fgui-restore)|对fairygui发布出来的资源文件进行逆向还原|<img alt="Stars" src="https://img.shields.io/github/stars/krapnikkk/fgui-restore?style=flat&labelColor=373f51&color=4FC08D" />|<img alt="Stars" src="https://img.shields.io/github/forks/krapnikkk/fgui-restore?style=flat&labelColor=373f51&color=4FC08D" />|
 |[fgui-viewer](https://github.com/krapnikkk/fgui-viewer)|fairgui发布资源在线浏览|<img alt="Stars" src="https://img.shields.io/github/stars/krapnikkk/fgui-viewer?style=flat&labelColor=373f51&color=4FC08D" />|<img alt="Stars" src="https://img.shields.io/github/forks/krapnikkk/fgui-viewer?style=flat&labelColor=373f51&color=4FC08D" />|
 |[padlocal-http](https://github.com/krapnikkk/padlocal-http)|为Wechat机器人PadLocal扩展通过HTTP或WebSocket接收事件和调用API的能力|<img alt="Stars" src="https://img.shields.io/github/stars/krapnikkk/padlocal-http?style=flat&labelColor=373f51&color=4FC08D" />|<img alt="Stars" src="https://img.shields.io/github/forks/krapnikkk/padlocal-http?style=flat&labelColor=373f51&color=4FC08D" />|
@@ -84,3 +80,4 @@
 
 
 </details>
+一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
