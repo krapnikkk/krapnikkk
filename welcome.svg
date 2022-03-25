@@ -1,0 +1,127 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				#container {
+                background-color: rgb(29, 29, 29);
+                padding-top: 20%;
+                padding-left: 25%;
+                }
+
+                .malfunction-style {
+                position: relative;
+                }
+
+                .malfunction-style-font {
+                font-weight: 700;
+                width:800px;
+                height:400px;
+                position: relative;
+                animation: debounce 1s steps(3) infinite;
+                /** font style **/
+                font-size: 50px;
+                font-style: italic;
+                font-weight: bold;
+                letter-spacing: 3px;
+                font-family: 'Anton', sans-serif;
+                }
+
+                .malfunction-style-font .malfunction-style-title {
+                position: absolute;
+                top: 3px;
+                left: 3px;
+                width: inherit;
+                }
+
+                .malfunction-style-font .malfunction-style-title:before {
+                position: absolute;
+                top: -2px;
+                left: -2px;
+                color: #00f5e7;
+                opacity: .8;
+                z-index: 2;
+                content: attr(data-title);
+                }
+
+                .malfunction-style-font .malfunction-style-title span{
+                position: relative;
+                color: #FFF;
+                z-index: 3;
+                opacity: .9;
+                }
+
+                .malfunction-style-font .malfunction-style-title:after {
+                position: absolute;
+                top: 2px;
+                left: 2px;
+                opacity: .8;
+                color: #ff0068;
+                z-index: 1;
+                content: attr(data-title);
+                }
+
+                .malfunction-style-font.shake {
+                position: absolute;
+                z-index: 9;
+                left: var(--shake-offset);
+                height: var(--shake-height);
+                overflow: hidden;
+                background:rgb(29, 29, 29);
+                animation: shake-body 1s steps(4) infinite;
+                animation-delay: var(--shake-delay);
+                }
+
+                .malfunction-style-font.shake .malfunction-style-title {
+                animation: shake-content 1s steps(4) infinite;
+                animation-delay: var(--shake-delay);
+                }
+
+                @keyframes debounce {
+                0% {
+                    margin-left: 2px;
+                }
+                0% {
+                    margin-left: -4px;
+                }
+                }
+
+                @keyframes shake-body {
+                0%   {
+                    top: 0;
+                }
+                100% {
+                    top: 60px;
+                }
+                }
+
+                @keyframes shake-content {
+                0%   {
+                    margin-top: 0;
+                }
+                100% {
+                    margin-top: -60px;
+                }
+                }
+			</style>
+			<div id="container">
+                <div class="malfunction-style">
+                    <div class="malfunction-style-font">
+                    <div class="malfunction-style-title" data-title="WELCOME ! ! !">
+                        <span>WELCOME ! ! !</span>
+                    </div>
+                    </div>
+                    <div class="malfunction-style-font shake" style="--shake-offset: -2px; --shake-height: 20px;--shake-delay:0s;">
+                    <div class="malfunction-style-title" data-title="WELCOME ! ! !">
+                        <span>WELCOME ! ! !</span>
+                    </div>
+                    </div>
+                    <div class="malfunction-style-font shake" style="--shake-offset: -5px; --shake-height: 10px;--shake-delay:0.5s;">
+                    <div class="malfunction-style-title" data-title="WELCOME ! ! !">
+                        <span>WELCOME ! ! !</span>
+                    </div>
+                    </div>
+                </div>
+            </div>
+		</div>
+	</foreignObject>
+</svg>
