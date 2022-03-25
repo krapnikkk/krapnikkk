@@ -1,5 +1,10 @@
+<div align="center">
+	<br>
+	<img src="https://github.com/krapnikkk/krapnikkk/blob/master/welcome.svg" width="800" height="400">
+	<br>
+</div>
+<div align="center">
 一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一
-## ＼＼\(۶ ᐛ )۶//／／
 
 ![profile views](https://komarev.com/ghpvc/?username=krapnikkk&color=brightgreen&style=flat-square&label=[visitor]++No.+)
 
@@ -80,4 +85,5 @@
 
 
 </details>
-一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一
+</div>
